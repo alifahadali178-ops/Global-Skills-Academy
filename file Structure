@@ -1,0 +1,10 @@
+Global-Skills-Academy
+├── index.html          # ہوم پیج
+├── style.css           # ڈیزائن
+├── script.js           # فنکشنلٹی
+├── admin/              # ایڈمن پینل
+│   ├── login.html      # لاگ ان پیج
+│   └── dashboard.html  # ڈیشبورڈ
+└── assets/             # میڈیا
+    ├── videos/         # کورس ویڈیوز
+    └── images/         # تصاویر
